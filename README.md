@@ -1,7 +1,7 @@
-# Hi there, I'm Renuka Durga Lakshmi
+# Hi there, I'm Renuka 
 
 Young and passionate final year Computer applications student and Frontend Developer expanding skills in DevOps.
-Skilled in HTML, CSS, Bootstrap, JavaScript, and AngularJS. 
+Skilled in HTML, CSS, Bootstrap, JavaScript, AngularJS, MySQL ,PHP
 Known for strong public speaking skills and a knack for tackling new challenges and contributing to open source.
 
 ## 🌱 Learning
