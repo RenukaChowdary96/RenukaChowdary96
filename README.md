@@ -1,23 +1,26 @@
-# Hi there, I'm Renuka 
+# Hi there, I'm Renuka! 👋
 
-Young and passionate final year Computer applications student and Frontend Developer expanding skills in DevOps.
-Skilled in HTML, CSS, Bootstrap, JavaScript, AngularJS, MySQL ,PHP
-Known for strong public speaking skills and a knack for tackling new challenges and contributing to open source.
+I am a **passionate Full Stack Web Developer**  and a **final-year Computer Applications student** with a continuous learning mindset. With a strong foundation in **Frontend Development** and a growing expertise in **DevOps practices and tools**, I strive to build seamless and scalable web applications.
 
-## 🌱 Learning
-DevOps practices and tools
+### 🚀 Skills
+- **Frontend Development:** HTML, CSS, Bootstrap, JavaScript, AngularJS
+- **Backend Development:** Node.js, PHP, Express.js
+- **Databases:** MySQL, MongoDB
+- **Version Control:** Git, GitHub
+- **Other Tools:** Familiar with Docker, CI/CD pipelines, and other DevOps tools
 
-## 💬 Interests
-- Frontend development
-- DevOps practices and tools
+### 🌱 Currently Learning
+- Advanced **MERN stack** development
+- **DevOps practices and tools**
 
-## 📫 How to Reach Me
-- Email: renukagaggara@gmail.com
-- LinkedIn: https://www.linkedin.com/in/renuka-gaggara-2104a12a6/
+### 💡 Interests
+- Full Stack Web Development
+- DevOps and Cloud Computing
+- Contributing to Open Source Projects
 
+### 💬 About Me
+Known for my **strong public speaking abilities**, I enjoy sharing knowledge and collaborating with peers. I'm always up for new challenges and opportunities to innovate in web development and DevOps.
 
-
-Thank you for visiting my profile! 😊
-
-
-
+### 📫 Let's Connect!
+- **Email:** [renukagaggara@gmail.com](mailto:renukagaggara@gmail.com)
+- **LinkedIn:** [Renuka Gaggara](https://www.linkedin.com/in/renuka-gaggara-2104a12a6/)
