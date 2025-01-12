@@ -1,6 +1,6 @@
 # Hi there, I'm Renuka! 👋
 
-I am a **passionate Full Stack Web Developer**  and a **final-year Computer Applications student** with a continuous learning mindset. With a strong foundation in **Frontend Development** and a growing expertise in **DevOps practices and tools**, I strive to build seamless and scalable web applications.
+I am a **passionate Full Stack Web Developer**  and a **final-year Computer Applications student** with a continuous learning mindset. With a strong foundation in **Full Stack Development** and a growing expertise in **DevOps practices and tools**, I strive to build seamless and scalable web applications.
 
 ### 🚀 Skills
 - **Frontend Development:** HTML, CSS, Bootstrap, JavaScript, AngularJS
